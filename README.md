@@ -1,2 +1,1 @@
-# reactjs_spa_listing_app
-ReactJS Listing SPA App 
+# ReactJS Listing SPA App
